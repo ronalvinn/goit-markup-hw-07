@@ -1241,7 +1241,6 @@ transition: var(--transition-duration) cubic-bezier(0.4, 0, 0.2, 1);
 
   .subscribe-button {
     position: relative;
-    left: 250px;
     margin-top: 32px;
   }
 
